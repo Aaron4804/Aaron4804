@@ -14,10 +14,26 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 IT Engineering Graduate
-- 💻 Interested in Software Development & AI
-- 🚀 Currently learning and building real-world projects
-- ⚡ Exploring Web Development, Cloud & Cybersecurity
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+* 🎓 IT Engineering Graduate
+* 💻 Interested in Software Development & AI
+* 🚀 Currently learning and building real-world projects
+* ⚡ Exploring Web Development, Cloud & Cybersecurity
+
+</td>
+
+<td width="42%" align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+</td>
+
+</tr>
+</table>
+
 
 ---
 
