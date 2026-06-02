@@ -3,7 +3,7 @@
 <h3 align="center">IT Engineering Graduate • Software Development • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+Software+Development+%26+AI;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=1000&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+Software+Development+%26+AI;Always+Learning+Always+Building" />
 </p>
 
 
@@ -81,10 +81,9 @@ Python-based vehicle tracking and overspeed detection system using **YOLO + Open
 
 ---
 
-python
+```python
 while learning == True:
     keep_building()
     improve()
-
-
-i made changes so mnake changes in this 
+```
+⭐ **Building projects. Learning continuously. Growing every day.**
