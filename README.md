@@ -6,11 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+Software+Development+%26+AI;Always+Learning+Always+Building" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Aaron4804&label=Profile%20Views&color=red&style=for-the-badge" />
-</p>
-
+<p align="right">
   <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 
 ## 👨‍💻 About Me
