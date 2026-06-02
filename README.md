@@ -25,13 +25,9 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,dotnet,flask,mongodb,firebase,aws,html,css,mysql,git,github,vscode,postman,linux,opencv,wireshark" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,dotnet,c,c++,flask,mongodb,firebase,aws,html,css,mysql,git,github,vscode,postman,linux,opencv,wireshark" />
 </p>
 
-<p align="center">
-  <img src="https://img.icons8.com/color/96/wireshark.png" width="52" />
-  <img src="https://img.icons8.com/color/96/opencv.png" width="52" />
-</p>
 
 ---
 
