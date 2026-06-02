@@ -23,14 +23,14 @@
 
 ## 🛠️ Tech Stack
 
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,dotnet,flask,mongodb,firebase,aws,html,css,mysql,git,github,vscode,postman,linux" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge" />
+  <img src="https://img.icons8.com/color/96/wireshark.png" width="52" />
+  <img src="https://img.icons8.com/color/96/opencv.png" width="52" />
 </p>
 
 ---
