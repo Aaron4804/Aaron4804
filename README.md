@@ -3,16 +3,14 @@
 <h3 align="center">IT Engineering Graduate • Software Development • AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+AI+%26+Software+Development;Always+Learning+Always+Building" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+Software+Development+%26+AI;Always+Learning+Always+Building" />
 </p>
-
----
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aaron4804&label=Profile%20Views&color=red&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Aaron4804&label=Profile%20Views&color=red&style=for-the-badge" />
 </p>
 
-<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ## 👨‍💻 About Me
 
@@ -26,13 +24,13 @@
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,dotnet,flask,mongodb,firebase,aws,html,css,mysql,git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,dotnet,flask,mongodb,firebase,aws,html,css,mysql,git,github,vscode,postman,linux" />
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge" />
 </p>
 
 ---
@@ -50,32 +48,35 @@ Python-based vehicle tracking and overspeed detection system using **YOLO + Open
 
 ---
 
-## 📊 GitHub Stats
+## 🌐 Connect With Me
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=aaron4804&show_icons=true&theme=radical&hide_border=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaron4804&theme=radical&hide_border=true" height="180"/>
+  <a href="https://linkedin.com/in/aaronvaz4804" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="52" />
+  </a>
+  <a href="https://github.com/Aaron4804" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="52" />
+  </a>
+  <a href="https://linktr.ee/AaronVaz" target="_blank">
+    <img src="https://img.icons8.com/color/96/linktree.png" width="52" />
+  </a>
+  <a href="mailto:aaronvaz482004@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Email:</b> <a href="mailto:aaronvaz482004@gmail.com">aaronvaz482004@gmail.com</a>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 📊 GitHub Stats
 
 <p align="center">
-<a href="https://linkedin.com/in/aaronvaz4804" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
-</a>
-
-<a href="https://github.com/Aaron4804" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
-<a href="https://linktr.ee/AaronVaz" target="_blank">
-<img src="https://img.icons8.com/color/96/linktree.png" width="50"/>
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Aaron4804&show_icons=true&theme=radical&hide_border=true" height="180" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aaron4804&theme=radical&hide_border=true" height="180" />
 </p>
-
-📧 **Email:** aaronvaz482004@gmail.com
 
 ---
 
@@ -83,6 +84,3 @@ Python-based vehicle tracking and overspeed detection system using **YOLO + Open
 while learning == True:
     keep_building()
     improve()
-```
-
-⭐ **Building projects. Learning continuously. Growing every day.**
