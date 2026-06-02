@@ -6,19 +6,27 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=850&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+Software+Development+%26+AI;Always+Learning+Always+Building" />
 </p>
 
-<p align="right">
-  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-</p>
-
-
 ## 👨‍💻 About Me
 
-- 🎓 IT Engineering Graduate
-- 💻 Interested in Software Development & AI
-- 🚀 Currently learning and building real-world projects
-- ⚡ Exploring Web Development, Cloud & Cybersecurity
+<table>
+<tr>
+<td width="60%" valign="top">
 
----
+- 🎓 IT Engineering Graduate  
+- 💻 Interested in Software Development & AI  
+- 🚀 Currently learning and building real-world projects  
+- ⚡ Exploring Web Development, Cloud & Cybersecurity  
+
+</td>
+
+<td width="40%" valign="top">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
+</td>
+
+</tr>
+</table>
+```
+
 
 ## 🛠️ Tech Stack
 
