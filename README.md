@@ -7,18 +7,22 @@
 </p>
 
 
+
 ## 👨‍💻 About Me
 
-<div align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
-</div>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
+<h3>
 
 - 🎓 IT Engineering Graduate  
 - 💻 Interested in Software Development & AI  
 - 🚀 Currently learning and building real-world projects  
 - ⚡ Exploring Web Development, Cloud & Cybersecurity  
 
+</h3>
+
 <br clear="right"/>
+
 
 
 
