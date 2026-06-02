@@ -12,18 +12,18 @@
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-## 👨‍💻 About Me
+```md
 
-## 👨‍💻 About Me
-
+#👨‍💻 About Me
+```
 <table>
 <tr>
 <td width="58%" valign="top">
 
-* 🎓 IT Engineering Graduate
-* 💻 Interested in Software Development & AI
-* 🚀 Currently learning and building real-world projects
-* ⚡ Exploring Web Development, Cloud & Cybersecurity
+- 🎓 IT Engineering Graduate  
+- 💻 Interested in Software Development & AI  
+- 🚀 Currently learning and building real-world projects  
+- ⚡ Exploring Web Development, Cloud & Cybersecurity  
 
 </td>
 
@@ -33,6 +33,11 @@
 
 </tr>
 </table>
+
+<br clear="both">
+
+---
+```
 
 
 ---
