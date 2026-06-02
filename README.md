@@ -65,9 +65,6 @@ Python-based vehicle tracking and overspeed detection system using **YOLO + Open
   </a>
 </p>
 
-<p align="center">
-  <b>Email:</b> <a href="mailto:aaronvaz482004@gmail.com">aaronvaz482004@gmail.com</a>
-</p>
 
 ---
 
