@@ -50,14 +50,14 @@ Python-based vehicle tracking and overspeed detection system using **YOLO + Open
   <a href="https://linkedin.com/in/aaronvaz4804" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" />
   </a>
+  <a href="mailto:aaronvaz482004@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" />
+  </a>
   <a href="https://github.com/Aaron4804" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="52" />
   </a>
   <a href="https://linktr.ee/AaronVaz" target="_blank">
     <img src="https://img.icons8.com/color/96/linktree.png" width="52" />
-  </a>
-  <a href="mailto:aaronvaz482004@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="52" />
   </a>
 </p>
 
