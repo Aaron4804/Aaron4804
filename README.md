@@ -10,7 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=Aaron4804&label=Profile%20Views&color=red&style=for-the-badge" />
 </p>
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<p align="right">
+  <img width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>
 
 ## 👨‍💻 About Me
 
