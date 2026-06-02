@@ -10,7 +10,7 @@
 ## 👨‍💻 About Me
 
 <div align="center">
-  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340"/>
+  <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 </div>
 
 - 🎓 IT Engineering Graduate  
