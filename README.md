@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">⚡ Aaron Vaz ⚡</h1>
 
-<!--
-**Aaron4804/Aaron4804** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">IT Engineering Graduate • Software Development • AI Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=Aspiring+Software+Developer;Building+Real+World+Projects;Learning+AI+%26+Software+Development;Always+Learning+Always+Building" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aaron4804&label=Profile%20Views&color=red&style=for-the-badge" />
+</p>
+
+<img align="right" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
+## 👨‍💻 About Me
+
+- 🎓 IT Engineering Graduate
+- 💻 Interested in Software Development & AI
+- 🚀 Currently learning and building real-world projects
+- ⚡ Exploring Web Development, Cloud & Cybersecurity
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,react,nodejs,dotnet,flask,mongodb,firebase,aws,html,css,mysql,git,github,vscode,postman" />
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/OpenCV-red?style=for-the-badge&logo=opencv&logoColor=white"/>
+<img src="https://img.shields.io/badge/YOLO-black?style=for-the-badge"/>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 LookBack – Smart AI Glasses & Application
+AI-enabled smart glasses with camera integration for police officers, including real-time image/video capture and document verification.
+
+### 🔹 Casca – AI Powered Custom Mobile Case E-Commerce Platform
+AI-powered e-commerce platform for customized mobile case designs with payment integration.
+
+### 🔹 Vehicle Tracking & Overspeed Detection System
+Python-based vehicle tracking and overspeed detection system using **YOLO + OpenCV**.
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=aaron4804&show_icons=true&theme=radical&hide_border=true" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aaron4804&theme=radical&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/aaronvaz4804" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+<a href="https://github.com/Aaron4804" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+<a href="https://linktr.ee/AaronVaz" target="_blank">
+<img src="https://img.icons8.com/color/96/linktree.png" width="50"/>
+</a>
+</p>
+
+📧 **Email:** aaronvaz482004@gmail.com
+
+---
+
+```python
+while learning == True:
+    keep_building()
+    improve()
+```
+
+⭐ **Building projects. Learning continuously. Growing every day.**
