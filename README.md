@@ -76,7 +76,8 @@ Python-based vehicle tracking and overspeed detection system using **YOLO + Open
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Aaron4804&show_icons=true&theme=radical&hide_border=true" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/..." height="180" />
+  <img src="https://streak-stats.demolab.com?user=Aaron4804&theme=radical&hide_border=true" height="180" />
+</p>
   
 </p>
 
